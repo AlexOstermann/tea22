@@ -1,5 +1,5 @@
 # Aufgabenstellung
-
+bli bla blub
 ## Git Kommandos
 
 git status
@@ -9,6 +9,11 @@ git fetch -all
 git add:            Änderungen zur staging area
 git commit
 git remote -v:      Anzeigen der verbundenen Remote Repositories
+git add -p
+git restore -staged: entfernen
+git log -oneline, exit q
+git push -u origin solution-001
+
 
 ## Terminal Kommandos
 
